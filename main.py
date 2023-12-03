@@ -49,5 +49,5 @@ def pick_day(sd=None):
 
 
 if __name__ == "__main__":
-    specific_day = 2
+    specific_day = 3
     pick_day(specific_day)()
